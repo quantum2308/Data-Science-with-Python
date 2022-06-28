@@ -76,3 +76,5 @@ Location	(Location) - Coordinates (Latitude, Longitude)
 # Requirements to run Project:
 1. You should have python install (prferabaly python 3).
 2. Extract the data set and put it in the same folder as the executable ipynb file.
+
+NOTE:- Data set and Project statements are taken from Simplilearn.
